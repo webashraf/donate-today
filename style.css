@@ -172,9 +172,17 @@ section {
 }
 /*  */
 /* Footer style */
+footer {
+  background-color: #101010;
+  padding: 100px 0;
+}
 footer input {
+  background-color: #101010;
+  color: #ff5947;
   text-align: center;
   font-size: 40px;
   border: navajowhite;
+  margin-bottom: 24px;
+  font-family: "Lobster", cursive;
 }
 /*  */
